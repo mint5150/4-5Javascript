@@ -12,7 +12,7 @@ if(num === 1){
 var text = "JavaScript";
 if(text === "js"){
     console.log("trueの処理");
-    console.log(num);
+    console.log(text);
   } else {
     console.log("falseの処理");
     console.log(text);
